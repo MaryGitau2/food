@@ -1,175 +1,155 @@
-"22": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food4.jpeg.jpeg",
-      "MenuId": "2",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+[
+  {
+  "popular": [ 
+    {
+      "name": "cripsy chicken burger",
+      "imageUrl": "https://www.dropbox.com/s/442b3n6ds0hz4hu/crispychicenburger.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "23": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food3.jpeg.jpeg",
-      "MenuId": "3",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chickennoodles",
+      "imageUrl": "https://www.dropbox.com/s/sotumuacw5l4jv1/chickennoodles_c02.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "24": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/mages1/bestfood/food1.jpeg",
-      "MenuId": "3",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chicken briyani",
+      "imageUrl": "https://www.dropbox.com/s/96sqetqdzq91sj6/chickenbiryani.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "25": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food8.jpeg.jpeg",
-      "MenuId": "3",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chicken manchuria",
+      "imageUrl": "https://www.dropbox.com/s/52bobkpay29sb3c/chickenmanchuria.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
+    }
+  ],
+   "recommended":[
+    {
+      "name": "macaroni",
+      "imageUrl":"https://www.dropbox.com/s/ogw0csqn06lk6iu/macaroni.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
+    }, 
+    {
+      "name": "frenchfries",
+      "imageUrl": "https://www.dropbox.com/s/anw8uet9pw598ll/frenchfries_a3.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "26": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "3",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chicken nodules",
+      "imageUrl":"https://www.dropbox.com/s/sotumuacw5l4jv1/chickennoodles_c02.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
+      }
+   ],
+  "allmenus":[
+    {
+      "name": "chocolate",
+      "imageUrl":"https://www.dropbox.com/s/p9ba3zzm158nvln/chocolate.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
+    },    
+    {
+      "name": "frenchfries",
+      "imageUrl": "https://www.dropbox.com/s/anw8uet9pw598ll/frenchfries_a3.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "27": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "4",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "macaroni",
+      "imageUrl":"https://www.dropbox.com/s/ogw0csqn06lk6iu/macaroni.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "28": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "4",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chickennoodles",
+      "imageUrl": "https://www.dropbox.com/s/sotumuacw5l4jv1/chickennoodles_c02.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "29": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "4",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chickennuggets",
+      "imageUrl":"https://www.dropbox.com/s/hi6ercgymduasjl/chickennuggets.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "30": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "5",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chocolate",
+      "imageUrl":"https://www.dropbox.com/s/p9ba3zzm158nvln/chocolate.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "31": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "5",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chickennuggets",
+      "imageUrl":"https://www.dropbox.com/s/hi6ercgymduasjl/chickennuggets.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "32": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "5",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chickennoodles",
+      "imageUrl": "https://www.dropbox.com/s/sotumuacw5l4jv1/chickennoodles_c02.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
     },
-    "33": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "6",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "34": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "6",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "35": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "6",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "36": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "6",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "37": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "6",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "38": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "7",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "39": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "7",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "40": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "7",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "41": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "7",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "42": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "8",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
-    },
-    "43": {
-      "Description": ":",
-      "Discount": "0",
-      "Image": "C:/Users/estherPC/Desktop/images1/bestfood/food9.jpeg.jpeg",
-      "MenuId": "8",
-      "Name": "PUMKIN CAKE",
-      "Price": "1000"
+    {
+      "name": "chocolate",
+      "imageUrl":"https://www.dropbox.com/s/p9ba3zzm158nvln/chocolate.png?dl=0",
+      "rating":"5.0",
+      "deliveryTime":"45min",
+      "deliveryCharges":"Free Delivery",
+      "price": "150",
+      "note":"Extra Special"
+    }
+
+]
+}
+]
